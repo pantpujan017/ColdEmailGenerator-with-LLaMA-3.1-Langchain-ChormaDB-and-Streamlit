@@ -1,0 +1,1 @@
+# ColdEmailGenerator-with-LLaMA-3.1-Langchain-ChormaDB-and-Streamlit
